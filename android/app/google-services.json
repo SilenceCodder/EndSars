@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "855330700942",
+    "firebase_url": "https://endsars-7b40d.firebaseio.com",
+    "project_id": "endsars-7b40d",
+    "storage_bucket": "endsars-7b40d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855330700942:android:0b76850c959b74b3e813df",
+        "android_client_info": {
+          "package_name": "com.protest.endsars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855330700942-sa3djedniqed4jg4op36sre48s4j38bm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.protest.endsars",
+            "certificate_hash": "e94c420f5cfc1630b3a1bc2613889ef809d0b9ab"
+          }
+        },
+        {
+          "client_id": "855330700942-vocksl52tee04i93kc2q2a7jekhc8nqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEUJuy9GoN4A55ufvXva7AMqWv6BR5C-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855330700942-vocksl52tee04i93kc2q2a7jekhc8nqe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "855330700942-491u67gv98obp21igv7glr3p3u3u6kgq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.protest.endsars"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

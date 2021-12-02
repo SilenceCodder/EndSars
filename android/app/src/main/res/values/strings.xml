@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NairaLand</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank f6300978111</string>
+<!--   THis is only for Admob testing unit <string name="testunit">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!-- <string name="testunit">ca-app-pub-3940256099942544/tring> -->
+    <string name="appid">ca-app-pub-8565713499868760~4702735608</string>
+</resources>
